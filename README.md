@@ -12,3 +12,8 @@ There is a scale provided to provided from the least amount of station end ids t
 According to the bar graph, there are three top End Stations with the annual average of $439 for 3-Day passes. The three end stations are Amsterdam Ave. & W. 82nd Street, E. 11th Street & Broadway, and Graham Ave. & Withers Street. As for the lowest average among the end station, there are also three with an average of $82.80. These three end stations are E. 98th Street & Park Ave., India Street & Manhattan Ave., and E. 31st & 3rd Ave.
 
 ![Average 3-Day Passes Per End Station](https://user-images.githubusercontent.com/47166187/61428820-baafda80-a8d8-11e9-8820-8a242e96b4d1.png)
+
+## Most Popular Weekday Based on Start Station
+According to the data collected, Saturday seems to have the most consistent day for the majority of the start stations.
+
+![Most Popular Weekday Based on Start Station](https://user-images.githubusercontent.com/47166187/61429380-eaf87880-a8da-11e9-914b-b8e1d6ebc52f.png)
