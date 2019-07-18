@@ -1,4 +1,6 @@
 # CitiBike
+![citi-bike-station-bikes](https://user-images.githubusercontent.com/47166187/61429300-905f1c80-a8da-11e9-9906-011f4358e979.jpg)
+
 
 ## Most Popular End Station
 There is a scale provided to provided from the least amount of station end ids to the largest amount. The scales reaches up to 126 as the highest count of station end ids. According to the map, the 12th Ave & 40 W. Street station has the total amount of 126 station end ids available.
