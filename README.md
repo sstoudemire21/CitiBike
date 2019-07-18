@@ -22,3 +22,9 @@ According to the data collected, Saturday seems to have the most consistent day 
 The Summer months have the largest purchases for the 24-hour passes and the Winter months show to have the lowest total 24-hour purchases.
 
 ![Total Monthly Purchases of 24 hour passes (Jan 2018 - March 2019)](https://user-images.githubusercontent.com/47166187/61429520-87bb1600-a8db-11e9-947f-70f334316564.png)
+
+## Average Duration Based on Birth Year
+Based on the graph, the customers born in 1980 have the longest average duration time of 2,270 seconds and customers born in 1945 have the shortest average duration time of 273 seconds.
+
+![Average Duration Based on Birth Year](https://user-images.githubusercontent.com/47166187/61429722-31020c00-a8dc-11e9-9c34-043ed4d9ae11.png)
+
