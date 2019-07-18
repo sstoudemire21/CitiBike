@@ -1,4 +1,4 @@
-# CitiBike
+# Citi Bike Analytics
 ![citi-bike-station-bikes](https://user-images.githubusercontent.com/47166187/61429300-905f1c80-a8da-11e9-9906-011f4358e979.jpg)
 
 
