@@ -17,3 +17,8 @@ According to the bar graph, there are three top End Stations with the annual ave
 According to the data collected, Saturday seems to have the most consistent day for the majority of the start stations.
 
 ![Most Popular Weekday Based on Start Station](https://user-images.githubusercontent.com/47166187/61429380-eaf87880-a8da-11e9-914b-b8e1d6ebc52f.png)
+
+## Total Monthly Purchases for 24-hour passes (Jan 2018-March 2019
+The Summer months have the largest purchases for the 24-hour passes and the Winter months show to have the lowest total 24-hour purchases.
+
+![Total Monthly Purchases of 24 hour passes (Jan 2018 - March 2019)](https://user-images.githubusercontent.com/47166187/61429520-87bb1600-a8db-11e9-947f-70f334316564.png)
