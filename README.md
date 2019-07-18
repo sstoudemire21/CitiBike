@@ -28,3 +28,7 @@ Based on the graph, the customers born in 1980 have the longest average duration
 
 ![Average Duration Based on Birth Year](https://user-images.githubusercontent.com/47166187/61429722-31020c00-a8dc-11e9-9c34-043ed4d9ae11.png)
 
+## Total Purchase of Rides based on Usertype for 2018
+Based on the year of 2018, July is a month of high purchased rides for customers by a total of 119 while July is also the lowest month for subscribers by a total of 246 purchased rides.
+
+![Total Purchase of Rides based on Usertype for 2018](https://user-images.githubusercontent.com/47166187/61429843-ad94ea80-a8dc-11e9-94d1-a42318e7ce47.png)
